@@ -1,1 +1,1 @@
-# Machine Learning
+# Sonar Rock vs Mine Prediction
